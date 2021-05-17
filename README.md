@@ -1,2 +1,2 @@
 # Rummy-HighLevel
-This program implements the Romi card game.
+This program implements the Rummy card game.
