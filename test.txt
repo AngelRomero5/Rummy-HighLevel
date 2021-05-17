@@ -1,0 +1,7 @@
+Romi Card Game: 
+
+Initial Hand for P1: jc, qh, 4c, 8s, 5c, kd, kc, ts, 3d, 
+Initial Hand for P2: qd, 5h, 3c, 8c, 6s, tc, 3s, kh, qc, 
+laying 8s
+laying 8h
+laying 8c
